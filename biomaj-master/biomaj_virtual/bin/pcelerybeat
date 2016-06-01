@@ -1,0 +1,10 @@
+#!/home/nfoulqui/Workspace/biomaj/biomaj-master/biomaj_virtual/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'pyramid-celery','console_scripts','pcelerybeat'
+__requires__ = 'pyramid-celery'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('pyramid-celery', 'console_scripts', 'pcelerybeat')()
+    )

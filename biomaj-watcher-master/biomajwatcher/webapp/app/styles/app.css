@@ -1,0 +1,159 @@
+body { padding-top: 70px; }
+
+.meta {
+  border-style: solid;
+  border-width: 2px;
+}
+
+.process {
+  margin: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#processes {
+  color: black;
+}
+
+.bankdg {
+  margin: 5px;
+}
+
+.cronbank {
+  margin: 10px;
+}
+
+.cron-action {
+  margin-left: 6px;
+}
+.bankchart {
+  height: 300px;
+}
+
+.datatable {
+  color: black;
+}
+
+a {
+  color: #15100C;
+}
+
+.paginate_button {
+  margin-left: 3px;
+}
+
+#formats {
+  color: black;
+}
+
+.CodeMirror {
+  min-height: 600px;
+}
+
+.panel-body {
+  color: black;
+}
+
+.current_status_true {
+  background-color: #449d44;
+}
+
+.current_status_false {
+  background-color: #c9302c;
+}
+
+.status  {
+  border-style: solid;
+  border-width: 0.2em;
+  text-align: center;
+  color: black;
+}
+
+.status_true {
+  background-color: #449d44;
+}
+
+.status_false {
+  background-color: #c9302c;
+}
+
+.blist tbody tr {
+  color: black;
+
+                }
+
+.form-signin
+{
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading, .form-signin .checkbox
+{
+    margin-bottom: 10px;
+}
+.form-signin .checkbox
+{
+    font-weight: normal;
+}
+.form-signin .form-control
+{
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-signin .form-control:focus
+{
+    z-index: 2;
+}
+.form-signin input[type="text"]
+{
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.form-signin input[type="password"]
+{
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.account-wall
+{
+    margin-top: 20px;
+    padding: 40px 0px 20px 0px;
+    background-color: #f7f7f7;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+.login-title
+{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    display: block;
+}
+.profile-img
+{
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.need-help
+{
+    margin-top: 10px;
+}
+.new-account
+{
+    display: block;
+    margin-top: 10px;
+}

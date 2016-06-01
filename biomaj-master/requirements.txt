@@ -1,0 +1,5 @@
+mock
+nose
+pymongo==3.2
+pycurl
+tabulate

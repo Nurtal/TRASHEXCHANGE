@@ -1,0 +1,10 @@
+#!/home/nfoulqui/Workspace/biomaj/biomaj-master/biomaj_virtual/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'celery','console_scripts','celeryd-multi'
+__requires__ = 'celery'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('celery', 'console_scripts', 'celeryd-multi')()
+    )
